@@ -1,4 +1,4 @@
-## 👨‍💻 Olá, Sou Isaías J Barros!!
+## 👨‍💻 Isaías J Barros!!
 
 - 🌱 Estudando C# .Net
 
