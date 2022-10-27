@@ -13,7 +13,9 @@
   
  
   <img align="center" alt="Isaias-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Isaias-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Isaias-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Isaias-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ 
     
 ![Snake animation](https://github.com/IsaiasBrrsJ/IsaiasBrrsJ/blob/output/github-contribution-grid-snake.svg)
 
