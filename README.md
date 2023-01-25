@@ -1,6 +1,11 @@
 ## 👨‍💻 Isaías J Barros!!
 
-- 🌱 Estudando C# .Net
+
+<img align="right" height="150"  src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif"  />
+
+###
+
+- 🌱 Estudando C# .Net e Js
 
 
   
