@@ -5,9 +5,9 @@
 
 ###
 
-- 🌱 Estudando C# .Net
+- 🌱 Software developer C# .Net | PowerShell | Azure 
 
-
+ 
   
  
   <img align="center" alt="Isaias-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
